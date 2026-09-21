@@ -1,0 +1,6 @@
+@RecamNewBackend_HostAddress = http://localhost:5262
+
+GET {{RecamNewBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

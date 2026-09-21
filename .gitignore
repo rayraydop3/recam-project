@@ -1,0 +1,29 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+
+# .NET
+bin/
+obj/
+*.user
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
