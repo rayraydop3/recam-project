@@ -8,6 +8,8 @@ Real-estate media delivery platform connecting photography companies (Admin) wit
 | [recam-frontend](recam-frontend) | Admin / Agent web app | React + TypeScript + Vite |
 | [recam-ai-agent](recam-ai-agent) | AI agent that calls the backend API | Python |
 
+> This repository consolidates three separately developed projects (backend, frontend and AI agent) into one place for easier review, which is why the history starts with a single commit.
+
 See [RECAM_Project_Outline.md](RECAM_Project_Outline.md) for the full project outline.
 
 ## Configuration
